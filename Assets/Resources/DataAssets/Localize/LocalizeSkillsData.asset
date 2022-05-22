@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bfd993d24b46d040befcd7eff6d47a3, type: 3}
+  m_Name: LocalizeSkillsData
+  m_EditorClassIdentifier: 
+  _data:
+  - id: 100000001
+    name: "\u566C\u9B42\u5F13\u7BAD_Z"
+    price: 1000
+    attack: 30
+    prefabName: Common_Arrow_Z
+  - id: 100000002
+    name: "\u566C\u9B42\u5F13\u7BAD_Y"
+    price: 2000
+    attack: 60
+    prefabName: Common_Arrow_Y
+  - id: 100000003
+    name: "\u566C\u9B42\u5F13\u7BAD_X"
+    price: 3000
+    attack: 70
+    prefabName: Common_Arrow_X
+  - id: 100000004
+    name: "\u566C\u9B42\u5F13\u7BAD_W"
+    price: 4000
+    attack: 80
+    prefabName: Common_Arrow_W
+  - id: 100000005
+    name: "\u566C\u9B42\u5F13\u7BAD_V"
+    price: 5000
+    attack: 100
+    prefabName: Common_Arrow_V
+  - id: 100000006
+    name: "\u566C\u9B42\u5F13\u7BAD_U"
+    price: 6000
+    attack: 120
+    prefabName: Common_Arrow_U

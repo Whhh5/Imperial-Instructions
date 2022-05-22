@@ -1,0 +1,9 @@
+C	LocalizeCommonControllerData
+T	ulong	string	ulong	float	string
+H	id	name	price	attack	prefabName
+I	物品编号	物品名称	物品价格		预制体名称
+	100000001	噬魂弓箭	1000	30	Common_Arrow_Z
+	100000002	噬魂弓箭	2000	60	Common_Arrow_Z
+	100000003	噬魂弓箭	3000	70	Common_Arrow_Z
+	100000004	噬魂弓箭	4000	80	Common_Arrow_Z
+	100000005	噬魂弓箭	5000	100	Common_Arrow_Z
